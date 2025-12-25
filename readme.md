@@ -91,5 +91,5 @@ After hardening the systems, I repeated the Phase 1 attacks to verify the defens
 ---
 
 ## 👤 Author
-**Anuj Priyadarshi**
+**Parmatma Kumar**
 *Cybersecurity Project – Azure Cloud*
